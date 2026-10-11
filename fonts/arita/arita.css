@@ -1,0 +1,143 @@
+@font-face {
+  font-family: 'aritaburikr';
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritaburikr-hairline.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritaburikr';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritaburikr-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritaburikr';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritaburikr-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritaburikr';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritaburikr-semibold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritaburikr';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritaburikr-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritadotumkr';
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritadotumkr-thin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritadotumkr';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritadotumkr-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritadotumkr';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritadotumkr-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritadotumkr';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritadotumkr-semibold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritadotumkr';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritadotumkr-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritasansltn';
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritasansltn-thin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritasansltn';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritasansltn-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritasansltn';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritasansltn-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritasansltn';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritasansltn-semibold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritasansltn';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritasansltn-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritasanssc';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritasanssc-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritasanssc';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritasanssc-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritasanssc';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritasanssc-bold.woff2') format('woff2');
+}

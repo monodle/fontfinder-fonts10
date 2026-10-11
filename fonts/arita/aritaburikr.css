@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'aritaburikr';
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritaburikr-hairline.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritaburikr';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritaburikr-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritaburikr';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritaburikr-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritaburikr';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritaburikr-semibold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'aritaburikr';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./aritaburikr-bold.woff2') format('woff2');
+}

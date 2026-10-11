@@ -1,0 +1,393 @@
+{
+  "nextRepo": null,
+  "fonts": [
+    {
+      "id": "aritaburikr",
+      "family": "aritaburikr",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        100,
+        300,
+        500,
+        600,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/arita/aritaburikr.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.agfont.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright (c) AmorePacific & AhnSangSoo-HanJaeJoon-RyuYangHee. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "Arita Buri KR Bold",
+          "en": "Arita Buri KR Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;SAND;AritaBuriKRBold"
+        },
+        "Full Font Name": {
+          "ko": "Arita Buri KR Bold",
+          "en": "Arita Buri KR Bold"
+        },
+        "Version": {
+          "en": "Version 1.000; Build 240904"
+        },
+        "PostScript Name": {
+          "en": "AritaBuriKRBold"
+        },
+        "Trademark": {
+          "en": "Arita is a trademark of AmorePacific corporation."
+        },
+        "Manufacturer": {
+          "ko": "AmorePacific, AhnSangSoo, HanJaeJoon, RyuYangHee",
+          "en": "AmorePacific, AhnSangSoo, HanJaeJoon, RyuYangHee"
+        },
+        "Designer": {
+          "ko": "AmorePacific, AhnSangSoo, HanJaeJoon, RyuYangHee",
+          "en": "AmorePacific, AhnSangSoo, HanJaeJoon, RyuYangHee"
+        },
+        "URL Vendor": {
+          "en": "http://www.agfont.com"
+        },
+        "Typographic Family": {
+          "ko": "Arita Buri KR",
+          "en": "Arita Buri KR"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "aritadotumkr",
+      "family": "aritadotumkr",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "4.00",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        100,
+        300,
+        500,
+        600,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/arita/aritadotumkr.css",
+      "os2": {
+        "familyClass": {
+          "classId": 8,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.amorepacific.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) AmorePacific & AhnSangSoo-HanJaeJoon-RyuYangHee. All rights reserved.",
+          "en": "Copyright (c) AmorePacific & AhnSangSoo-HanJaeJoon-RyuYangHee. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "Arita Dotum KR Bold",
+          "en": "Arita Dotum KR Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "ko": "4.000;SAND;AritaDotumKRBold",
+          "en": "4.000;SAND;AritaDotumKRBold"
+        },
+        "Full Font Name": {
+          "ko": "Arita Dotum KR Bold",
+          "en": "Arita Dotum KR Bold"
+        },
+        "Version": {
+          "en": "Version 4.00; Build 240904"
+        },
+        "PostScript Name": {
+          "en": "AritaDotumKRBold"
+        },
+        "Trademark": {
+          "en": "Arita is a registered trademark of AmorePacific."
+        },
+        "Manufacturer": {
+          "en": "AmorePacific, AhnSangSoo, HanJaeJun, LeeYongJe"
+        },
+        "Designer": {
+          "en": "AmorePacific, AhnSangSoo, HanJaeJun, LeeYongJe"
+        },
+        "URL Vendor": {
+          "en": "http://www.amorepacific.com"
+        },
+        "License Description": {
+          "en": "AmorePacific."
+        },
+        "License Info URL": {
+          "en": "http://www.amorepacific.com"
+        },
+        "Typographic Family": {
+          "ko": "Arita Dotum KR",
+          "en": "Arita Dotum KR"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "aritasansltn",
+      "family": "aritasansltn",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        100,
+        300,
+        500,
+        600,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/arita/aritasansltn.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 4,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 3
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.amorepacific.com",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © Amorepacific Corp. All rights reserved."
+        },
+        "Font Family": {
+          "en": "Arita Sans LTN Bold"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;SAND;AritaSansLTNBold"
+        },
+        "Full Font Name": {
+          "en": "Arita Sans LTN Bold"
+        },
+        "Version": {
+          "en": "Version 1.000;PS 001.000;hotconv 1.0.56;makeotf.lib2.0.21325"
+        },
+        "PostScript Name": {
+          "en": "AritaSansLTNBold"
+        },
+        "Trademark": {
+          "en": "Arita Sans is a registered trademark of Amorepacific Corp."
+        },
+        "Manufacturer": {
+          "en": "MdB Associates www.mdb-associates.com for Ahn Graphics www.ag.co.kr"
+        },
+        "Designer": {
+          "en": "Peter Verheul - Creative Direction: Ahn Sang-soo and Michel de Boer"
+        },
+        "URL Vendor": {
+          "en": "http://www.amorepacific.com"
+        },
+        "License Info URL": {
+          "en": "http://www.amorepacific.com"
+        },
+        "Typographic Family": {
+          "en": "Arita Sans LTN"
+        },
+        "Typographic Subfamily": {
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "aritasanssc",
+      "family": "aritasanssc",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "en",
+        "zh-CN",
+        "zh-Hans",
+        "zh-Hant",
+        "zh-TW"
+      ],
+      "version": "1.01",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        500,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/arita/aritasanssc.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 2,
+          "weight": 8,
+          "proportion": 0,
+          "contrast": 4,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © Amorepacific Corp. All rights reserved.",
+          "zh-Hans": "Copyright � Amorepacific Corp. All rights reserved."
+        },
+        "Font Family": {
+          "en": "Arita Sans SC Bold",
+          "win_0x0C04": "Arita Sans SC Bold",
+          "zh-CN": "Arita Sans SC Bold",
+          "zh-Hans": "Arita Sans SC Bold",
+          "zh-Hant": "Arita Sans SC Bold",
+          "zh-TW": "Arita Sans SC Bold"
+        },
+        "Font Subfamily (Style)": {
+          "en": "Regular",
+          "win_0x0C04": "Regular",
+          "zh-CN": "Regular",
+          "zh-Hans": "Regular",
+          "zh-Hant": "Regular",
+          "zh-TW": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;SAND;AritaSansSCBold"
+        },
+        "Full Font Name": {
+          "en": "Arita Sans SC Bold",
+          "win_0x0C04": "Arita Sans SC Bold",
+          "zh-Hans": "Arita Sans SC Bold",
+          "zh-Hant": "Arita Sans SC Bold",
+          "zh-TW": "Arita Sans SC Bold"
+        },
+        "Version": {
+          "en": "Version 1.01"
+        },
+        "PostScript Name": {
+          "en": "AritaSansSCBold"
+        },
+        "Trademark": {
+          "en": "Arita Sans is a registered trademark of Amorepacific Corp.",
+          "zh-Hans": "Arita Sans is a registered trademark of Amorepacific Corp.",
+          "zh-Hant": "Arita Sans is a registered trademark of Amorepacific Corp."
+        },
+        "Typographic Family": {
+          "en": "Arita Sans SC",
+          "win_0x0C04": "Arita Sans SC",
+          "zh-CN": "Arita Sans SC",
+          "zh-Hans": "Arita Sans SC",
+          "zh-Hant": "Arita Sans SC",
+          "zh-TW": "Arita Sans SC"
+        },
+        "Typographic Subfamily": {
+          "en": "Bold",
+          "win_0x0C04": "Bold",
+          "zh-CN": "Bold",
+          "zh-Hans": "Bold",
+          "zh-Hant": "Bold",
+          "zh-TW": "Bold"
+        }
+      }
+    }
+  ]
+}
