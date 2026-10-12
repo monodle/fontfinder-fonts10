@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'sb_aggro_m';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url('./sb_aggrootf_m.woff2') format('woff2');
+}

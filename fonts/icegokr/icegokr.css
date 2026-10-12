@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'icehimchan';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./icehimchan-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'icejaram';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./icejaram-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'icesimin';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./icesimin-rg.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'icesotong';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./icesotong-rg.woff2') format('woff2');
+}

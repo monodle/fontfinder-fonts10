@@ -1,5 +1,5 @@
 {
-  "nextRepo": null,
+  "nextRepo": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts11@20261011/fonts",
   "fonts": [
     {
       "id": "aritaburikr",
@@ -386,6 +386,2588 @@
           "zh-Hans": "Bold",
           "zh-Hant": "Bold",
           "zh-TW": "Bold"
+        }
+      }
+    },
+    {
+      "id": "icehimchan",
+      "family": "icehimchan",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/icegokr/icehimchan.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "homepage": "http://voyagerx.com; http://www.ownglyph.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2022 2022 인천광역시교육청, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 2022 인천광역시교육청의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © 2022 2022 INCHEON Metropolitan City Office of Education, All rights reserved. Modification of this file requires prior written permission from 2022 INCHEON Metropolitan City Office of Education"
+        },
+        "Font Family": {
+          "ko": "인천교육힘찬",
+          "en": "iceHimchan Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "iceHimchanRg"
+        },
+        "Full Font Name": {
+          "ko": "인천교육힘찬 Regular",
+          "en": "iceHimchan Regular"
+        },
+        "Version": {
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "en": "iceHimchan-Rg"
+        },
+        "Trademark": {
+          "en": "iceHimchan is a trademark of 2022 INCHEON Metropolitan City Office of Education"
+        },
+        "Manufacturer": {
+          "en": "VoyagerX Inc."
+        },
+        "Designer": {
+          "ko": "온글잎 AI",
+          "en": "Ownglyh AI"
+        },
+        "URL Vendor": {
+          "en": "http://voyagerx.com; http://www.ownglyph.com"
+        },
+        "License Description": {
+          "en": "2022 INCHEON Metropolitan City Office of Education"
+        },
+        "Typographic Family": {
+          "ko": "인천교육힘찬",
+          "en": "iceHimchan"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular"
+        }
+      }
+    },
+    {
+      "id": "icejaram",
+      "family": "icejaram",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/icegokr/icejaram.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "homepage": "http://voyagerx.com; http://www.ownglyph.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2022 인천광역시교육청, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 인천광역시교육청의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © 2022 INCHEON Metropolitan City Office of Education, All rights reserved. Modification of this file requires prior written permission from INCHEON Metropolitan City Office of Education"
+        },
+        "Font Family": {
+          "ko": "인천교육자람",
+          "en": "iceJaram Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "iceJaramRg"
+        },
+        "Full Font Name": {
+          "ko": "인천교육자람 Regular",
+          "en": "iceJaram Regular"
+        },
+        "Version": {
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "en": "iceJaram-Rg"
+        },
+        "Trademark": {
+          "en": "iceJaram is a trademark of INCHEON Metropolitan City Office of Education"
+        },
+        "Manufacturer": {
+          "en": "VoyagerX Inc."
+        },
+        "Designer": {
+          "ko": "온글잎 AI",
+          "en": "Ownglyh AI"
+        },
+        "URL Vendor": {
+          "en": "http://voyagerx.com; http://www.ownglyph.com"
+        },
+        "License Description": {
+          "en": "INCHEON Metropolitan City Office of Education"
+        },
+        "Typographic Family": {
+          "ko": "인천교육자람",
+          "en": "iceJaram"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular"
+        }
+      }
+    },
+    {
+      "id": "icesimin",
+      "family": "icesimin",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/icegokr/icesimin.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "homepage": "http://voyagerx.com; http://www.ownglyph.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2022 2022 인천광역시교육청, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 2022 인천광역시교육청의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © 2022 2022 INCHEON Metropolitan City Office of Education, All rights reserved. Modification of this file requires prior written permission from 2022 INCHEON Metropolitan City Office of Education"
+        },
+        "Font Family": {
+          "ko": "인천교육시민",
+          "en": "iceSimin Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "iceSiminRg"
+        },
+        "Full Font Name": {
+          "ko": "인천교육시민 Regular",
+          "en": "iceSimin Regular"
+        },
+        "Version": {
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "en": "iceSimin-Rg"
+        },
+        "Trademark": {
+          "en": "iceSimin is a trademark of 2022 INCHEON Metropolitan City Office of Education"
+        },
+        "Manufacturer": {
+          "en": "VoyagerX Inc."
+        },
+        "Designer": {
+          "ko": "온글잎 AI",
+          "en": "Ownglyh AI"
+        },
+        "URL Vendor": {
+          "en": "http://voyagerx.com; http://www.ownglyph.com"
+        },
+        "License Description": {
+          "en": "2022 INCHEON Metropolitan City Office of Education"
+        },
+        "Typographic Family": {
+          "ko": "인천교육시민",
+          "en": "iceSimin"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular"
+        }
+      }
+    },
+    {
+      "id": "icesotong",
+      "family": "icesotong",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/icegokr/icesotong.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "homepage": "http://voyagerx.com; http://www.ownglyph.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2022 2022 인천광역시교육청, 모든 권리는 저작권자에게 있으며, 이 파일을 수정하기 위해서는 반드시 2022 인천광역시교육청의 사전 허가를 받아야 합니다.",
+          "en": "Copyright © 2022 2022 INCHEON Metropolitan City Office of Education, All rights reserved. Modification of this file requires prior written permission from 2022 INCHEON Metropolitan City Office of Education"
+        },
+        "Font Family": {
+          "ko": "인천교육소통",
+          "en": "iceSotong Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "iceSotongRg"
+        },
+        "Full Font Name": {
+          "ko": "인천교육소통 Regular",
+          "en": "iceSotong Regular"
+        },
+        "Version": {
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "en": "iceSotong-Rg"
+        },
+        "Trademark": {
+          "en": "iceSotong is a trademark of 2022 INCHEON Metropolitan City Office of Education"
+        },
+        "Manufacturer": {
+          "en": "VoyagerX Inc."
+        },
+        "Designer": {
+          "ko": "온글잎 AI",
+          "en": "Ownglyh AI"
+        },
+        "URL Vendor": {
+          "en": "http://voyagerx.com; http://www.ownglyph.com"
+        },
+        "License Description": {
+          "en": "2022 INCHEON Metropolitan City Office of Education"
+        },
+        "Typographic Family": {
+          "ko": "인천교육소통",
+          "en": "iceSotong"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular"
+        }
+      }
+    },
+    {
+      "id": "one-mobile",
+      "family": "one-mobile",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300,
+        400,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/one-mobile/one-mobile.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://www.onestorecorp.com/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2021 ONESTORE. All rights reserved. Font designed by FONTRIX Inc.",
+          "en": "Copyright (c) 2021 ONESTORE. All rights reserved. Font designed by FONTRIX Inc."
+        },
+        "Font Family": {
+          "ko": "ONE 모바일고딕 OTF Regular",
+          "en": "ONE Mobile OTF Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "ONESTORE_ONEMobileOTFRegular"
+        },
+        "Full Font Name": {
+          "ko": "ONE 모바일고딕 OTF Regular",
+          "en": "ONE Mobile OTF Regular"
+        },
+        "Version": {
+          "en": "Version 1.0.1; Build Release"
+        },
+        "PostScript Name": {
+          "en": "ONEMobileOTFRegular"
+        },
+        "Trademark": {
+          "en": "ONE Mobile OTF Regular is a registered trademark of ONESTORE."
+        },
+        "Manufacturer": {
+          "en": "ONESTORE"
+        },
+        "Designer": {
+          "ko": "박용락; 조소희; 박윤상;",
+          "en": "Park Young-rak; Cho So-hee; Park Yun-Sang;"
+        },
+        "URL Vendor": {
+          "en": "https://www.onestorecorp.com/"
+        },
+        "License Description": {
+          "en": "ONESTORE"
+        },
+        "License Info URL": {
+          "en": "https://www.onestorecorp.com/"
+        },
+        "Typographic Family": {
+          "ko": "ONE 모바일고딕 OTF",
+          "en": "ONE Mobile OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "one-mobile-pop",
+      "family": "one-mobile-pop",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/one-mobile/one-mobile-pop.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://www.onestorecorp.com/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2021 ONESTORE. All rights reserved. Font designed by FONTRIX Inc.",
+          "en": "Copyright (c) 2021 ONESTORE. All rights reserved. Font designed by FONTRIX Inc."
+        },
+        "Font Family": {
+          "ko": "ONE 모바일POP OTF",
+          "en": "ONE Mobile POP OTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "ONESTORE_ONEMobilePOPOTFRegular"
+        },
+        "Full Font Name": {
+          "ko": "ONE 모바일POP OTF",
+          "en": "ONE Mobile POP OTF"
+        },
+        "Version": {
+          "en": "Version 1.0.0; Build Release"
+        },
+        "PostScript Name": {
+          "en": "ONEMobilePOPOTFRegular"
+        },
+        "Trademark": {
+          "en": "ONE Mobile POP OTF is a registered trademark of ONESTORE."
+        },
+        "Manufacturer": {
+          "en": "ONESTORE"
+        },
+        "Designer": {
+          "ko": "박용락; 조소희; 박윤상;",
+          "en": "Park Young-rak; Cho So-hee; Park Yun-Sang;"
+        },
+        "URL Vendor": {
+          "en": "https://www.onestorecorp.com/"
+        },
+        "License Description": {
+          "en": "ONESTORE"
+        },
+        "License Info URL": {
+          "en": "https://www.onestorecorp.com/"
+        },
+        "Typographic Family": {
+          "ko": "ONE 모바일POP OTF",
+          "en": "ONE Mobile POP OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "one-mobile-title",
+      "family": "one-mobile-title",
+      "categories": [
+        "display"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/one-mobile/one-mobile-title.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://www.onestorecorp.com/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2021 ONESTORE. All rights reserved. Font designed by FONTRIX Inc.",
+          "en": "Copyright (c) 2021 ONESTORE. All rights reserved. Font designed by FONTRIX Inc."
+        },
+        "Font Family": {
+          "ko": "ONE 모바일고딕 Title OTF",
+          "en": "ONE Mobile Title OTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "ONESTORE_ONEMobileTitleOTFRegular"
+        },
+        "Full Font Name": {
+          "ko": "ONE 모바일고딕 Title OTF",
+          "en": "ONE Mobile Title OTF"
+        },
+        "Version": {
+          "en": "Version 1.0.1; Build Release"
+        },
+        "PostScript Name": {
+          "en": "ONEMobileTitleOTFRegular"
+        },
+        "Trademark": {
+          "en": "ONE Mobile Title OTF is a registered trademark of ONESTORE."
+        },
+        "Manufacturer": {
+          "en": "ONESTORE"
+        },
+        "Designer": {
+          "ko": "박용락; 조소희; 박윤상;",
+          "en": "Park Young-rak; Cho So-hee; Park Yun-Sang;"
+        },
+        "URL Vendor": {
+          "en": "https://www.onestorecorp.com/"
+        },
+        "License Description": {
+          "en": "ONESTORE"
+        },
+        "License Info URL": {
+          "en": "https://www.onestorecorp.com/"
+        },
+        "Typographic Family": {
+          "ko": "ONE 모바일고딕 Title OTF",
+          "en": "ONE Mobile Title OTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "sb-aggro-b",
+      "family": "sb_aggro_b",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        600
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/sbx_aggro_font_2026/sb_aggro_b.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (C) 2020 SANDBOX NETWORK Inc. All Rights Reserved",
+          "en": "Copyright (C) 2020 SANDBOX NETWORK Inc. All Rights Reserved"
+        },
+        "Font Family": {
+          "ko": "SB 어그로OTF Bold",
+          "en": "SB AggroOTF Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "SBAggroOTFB"
+        },
+        "Full Font Name": {
+          "ko": "SB 어그로OTF Bold",
+          "en": "SB AggroOTF Bold"
+        },
+        "Version": {
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "en": "OTSBAggroB"
+        },
+        "Trademark": {
+          "en": "Design210 FONT is a registered trademark of Design210."
+        },
+        "Manufacturer": {
+          "en": "Design210"
+        },
+        "URL Vendor": {
+          "en": "www.design210.com"
+        },
+        "Typographic Family": {
+          "ko": "SB 어그로OTF",
+          "en": "SB AggroOTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Bold",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "sb-aggro-l",
+      "family": "sb_aggro_l",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        600
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/sbx_aggro_font_2026/sb_aggro_l.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (C) 2020 SANDBOX NETWORK Inc. All Rights Reserved",
+          "en": "Copyright (C) 2020 SANDBOX NETWORK Inc. All Rights Reserved"
+        },
+        "Font Family": {
+          "ko": "SB 어그로OTF Light",
+          "en": "SB AggroOTF Light"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "SBAggroOTFL"
+        },
+        "Full Font Name": {
+          "ko": "SB 어그로OTF Light",
+          "en": "SB AggroOTF Light"
+        },
+        "Version": {
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "en": "OTSBAggroL"
+        },
+        "Trademark": {
+          "en": "Design210 FONT is a registered trademark of Design210."
+        },
+        "Manufacturer": {
+          "en": "Design210"
+        },
+        "URL Vendor": {
+          "en": "www.design210.com"
+        },
+        "Typographic Family": {
+          "ko": "SB 어그로OTF",
+          "en": "SB AggroOTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Light",
+          "en": "Light"
+        }
+      }
+    },
+    {
+      "id": "sb-aggro-m",
+      "family": "sb_aggro_m",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.0",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        600
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/sbx_aggro_font_2026/sb_aggro_m.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "BOLD"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (C) 2020 SANDBOX NETWORK Inc. All Rights Reserved",
+          "en": "Copyright (C) 2020 SANDBOX NETWORK Inc. All Rights Reserved"
+        },
+        "Font Family": {
+          "ko": "SB 어그로OTF Medium",
+          "en": "SB AggroOTF Medium"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "SBAggroOTFM"
+        },
+        "Full Font Name": {
+          "ko": "SB 어그로OTF Medium",
+          "en": "SB AggroOTF Medium"
+        },
+        "Version": {
+          "en": "Version 1.0"
+        },
+        "PostScript Name": {
+          "en": "OTSBAggroM"
+        },
+        "Trademark": {
+          "en": "Design210 FONT is a registered trademark of Design210."
+        },
+        "Manufacturer": {
+          "en": "Design210"
+        },
+        "URL Vendor": {
+          "en": "www.design210.com"
+        },
+        "Typographic Family": {
+          "ko": "SB 어그로OTF",
+          "en": "SB AggroOTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Medium",
+          "en": "Medium"
+        }
+      }
+    },
+    {
+      "id": "waguri",
+      "family": "waguri",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/waguri/waguri.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://itsfont.com/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2023 by Guri City. All rights reserved.",
+          "en": "Copyright (c) 2023 by Guri City.  All rights reserved."
+        },
+        "Font Family": {
+          "ko": "와구리체",
+          "en": "WAGURI"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "WAGURI"
+        },
+        "Full Font Name": {
+          "ko": "와구리체",
+          "en": "WAGURI"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "ko": "와구리체",
+          "en": "WAGURI"
+        },
+        "Trademark": {
+          "ko": "WAGURI is a trademark of Guri City.",
+          "en": "WAGURI is a trademark of Guri City."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com/"
+        },
+        "License Description": {
+          "en": "Guri City"
+        },
+        "License Info URL": {
+          "en": "https://www.guri.go.kr/"
+        },
+        "Typographic Family": {
+          "ko": "와구리체",
+          "en": "WAGURI"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "wemakeprice",
+      "family": "wemakeprice",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400,
+        600,
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/wemakeprice/wemakeprice.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "homepage": "http://www.wemakeprice.com",
+      "metadata": {
+        "Copyright": {
+          "ko": " 2020 WEMAKEPRICE INC. ALL RIGHTS RESERVED.",
+          "en": "© 2020 WEMAKEPRICE INC. ALL RIGHTS RESERVED."
+        },
+        "Font Family": {
+          "ko": "위메프OTF",
+          "en": "WemakepriceOTF"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;WMP ;wemakepriceot-regular"
+        },
+        "Full Font Name": {
+          "ko": "위메프OTF Regular",
+          "en": "WemakepriceOTF Regular"
+        },
+        "Version": {
+          "en": "Version 1.000;hotconv 1.0.109;makeotfexe 2.5.65594"
+        },
+        "PostScript Name": {
+          "en": "wemakepriceot-regular"
+        },
+        "Trademark": {
+          "en": "wemakepriceot-regular is a trademark of WEMAKEPRICE INC."
+        },
+        "Manufacturer": {
+          "ko": "위메프OTF Regular",
+          "en": "WEMAKEPRICE INC"
+        },
+        "Designer": {
+          "ko": "김예현",
+          "en": "Yehyeon Kim"
+        },
+        "URL Vendor": {
+          "en": "http://www.wemakeprice.com"
+        },
+        "License Info URL": {
+          "en": "http://www.wemakeprice.com"
+        },
+        "Typographic Family": {
+          "ko": "위메프OTF",
+          "en": "WemakepriceOTF"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "yangjubyeolsan",
+      "family": "yangjubyeolsan",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/yangjubyeolsan/yangjubyeolsan.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2023 Yangju City. All rights reserved.",
+          "en": "Copyright © 2023 Yangju City. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "[양주]별산체",
+          "en": "Yangju Byeolsan"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;YangjuByeolsan"
+        },
+        "Full Font Name": {
+          "ko": "[양주]별산체",
+          "en": "Yangju Byeolsan"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20231219"
+        },
+        "PostScript Name": {
+          "en": "YangjuByeolsan"
+        },
+        "Trademark": {
+          "en": "YangJu is a trademark of Yangju City."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc."
+        },
+        "Designer": {
+          "en": "Kim mi rae;Han dohee"
+        }
+      }
+    },
+    {
+      "id": "yangpyeong-b",
+      "family": "yangpyeong_b",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.4",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/yangpyeong/yangpyeong_b.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2005-2008 Jungle System Co., Ltd. All right reserved.",
+          "en": "Copyright (c) 2005-2008 Jungle System Co., Ltd. All right reserved."
+        },
+        "Font Family": {
+          "ko": "(3) 양평군체 B",
+          "en": "(3) YangPyeong B"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Bold",
+          "en": "Bold"
+        },
+        "Unique Font Identifier": {
+          "ko": "(3) 양평군체 B",
+          "en": "(3) YangPyeong B"
+        },
+        "Full Font Name": {
+          "ko": "(3) 양평군체 B",
+          "en": "(3) YangPyeong B"
+        },
+        "Version": {
+          "ko": "1.4",
+          "en": "1.4"
+        },
+        "PostScript Name": {
+          "ko": "(3) YangPyeong B",
+          "en": "(3) YangPyeong B"
+        },
+        "Trademark": {
+          "ko": "Sejongfonts UniType UTF",
+          "en": "Sejongfonts Unitype UTF"
+        }
+      }
+    },
+    {
+      "id": "yangpyeong-l",
+      "family": "yangpyeong_l",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.4",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/yangpyeong/yangpyeong_l.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2005-2008 Jungle System Co., Ltd. All right reserved.",
+          "en": "Copyright (c) 2005-2008 Jungle System Co., Ltd. All right reserved."
+        },
+        "Font Family": {
+          "ko": "(1) 양평군체 L",
+          "en": "(1) YangPyeong L"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Light",
+          "en": "Light"
+        },
+        "Unique Font Identifier": {
+          "ko": "(1) 양평군체 L",
+          "en": "(1) YangPyeong L"
+        },
+        "Full Font Name": {
+          "ko": "(1) 양평군체 L",
+          "en": "(1) YangPyeong L"
+        },
+        "Version": {
+          "ko": "1.4",
+          "en": "1.4"
+        },
+        "PostScript Name": {
+          "ko": "(1) YangPyeong L",
+          "en": "(1) YangPyeong L"
+        },
+        "Trademark": {
+          "ko": "Sejongfonts UniType UTF",
+          "en": "Sejongfonts Unitype UTF"
+        }
+      }
+    },
+    {
+      "id": "yangpyeong-m",
+      "family": "yangpyeong_m",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.4",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/yangpyeong/yangpyeong_m.css",
+      "os2": {
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2005-2008 Jungle System Co., Ltd. All right reserved.",
+          "en": "Copyright (c) 2005-2008 Jungle System Co., Ltd. All right reserved."
+        },
+        "Font Family": {
+          "ko": "(2) 양평군체 M",
+          "en": "(2) YangPyeong M"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Medium",
+          "en": "Medium"
+        },
+        "Unique Font Identifier": {
+          "ko": "(2) 양평군체 M",
+          "en": "(2) YangPyeong M"
+        },
+        "Full Font Name": {
+          "ko": "(2) 양평군체 M",
+          "en": "(2) YangPyeong M"
+        },
+        "Version": {
+          "ko": "1.4",
+          "en": "1.4"
+        },
+        "PostScript Name": {
+          "ko": "(2) YangPyeong M",
+          "en": "(2) YangPyeong M"
+        },
+        "Trademark": {
+          "ko": "Sejongfonts UniType UTF",
+          "en": "Sejongfonts Unitype UTF"
+        }
+      }
+    },
+    {
+      "id": "yeongdeok-blueroad",
+      "family": "yeongdeok-blueroad",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/yeongdeok/yeongdeok-blueroad.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://itsfont.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2023 by Yeongdeok-gun.  All rights reserved.",
+          "en": "Copyright (c) 2023 by Yeongdeok-gun.  All rights reserved."
+        },
+        "Font Family": {
+          "ko": "영덕블루로드체",
+          "en": "Yeongdeok Blueroad"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Yeongdeok Blueroad"
+        },
+        "Full Font Name": {
+          "ko": "영덕블루로드체",
+          "en": "Yeongdeok Blueroad"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "Yeongdeok Blueroad"
+        },
+        "Trademark": {
+          "en": "Yeongdeok Blueroad is a trademark of Yeongdeok-gun."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com"
+        },
+        "License Description": {
+          "en": "Yeongdeok-gun"
+        },
+        "License Info URL": {
+          "en": "https://www.yd.go.kr"
+        },
+        "Typographic Family": {
+          "ko": "영덕블루로드체",
+          "en": "Yeongdeok Blueroad"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "yeongdeok-haeparang",
+      "family": "yeongdeok-haeparang",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/yeongdeok/yeongdeok-haeparang.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://itsfont.com/",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2023 by Yeongdeok-gun. All rights reserved.",
+          "en": "Copyright (c) 2023 by Yeongdeok-gun. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "영덕해파랑체",
+          "en": "Yeongdeok Haeparang"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Yeongdeok Haeparang"
+        },
+        "Full Font Name": {
+          "ko": "영덕해파랑체",
+          "en": "Yeongdeok Haeparang"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "Yeongdeok Haeparang"
+        },
+        "Trademark": {
+          "en": "Yeongdeok Haeparang is a trademark of Yeongdeok-gun."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com/"
+        },
+        "License Description": {
+          "en": "Yeongdeok-gun"
+        },
+        "License Info URL": {
+          "en": "https://www.yd.go.kr/"
+        },
+        "Typographic Family": {
+          "ko": "영덕해파랑체",
+          "en": "Yeongdeok Haeparang"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "yeongdeok-sea",
+      "family": "yeongdeok-sea",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/yeongdeok/yeongdeok-sea.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://itsfont.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2023 by Yeongdeok-gun. All rights reserved.",
+          "en": "Copyright (c) 2023 by Yeongdeok-gun. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "영덕바다체",
+          "en": "Yeongdeok Sea"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Yeongdeok Sea"
+        },
+        "Full Font Name": {
+          "ko": "영덕바다체",
+          "en": "Yeongdeok Sea"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "Yeongdeok Sea"
+        },
+        "Trademark": {
+          "en": "Yeongdeok Sea is a trademark of Yeongdeok-gun."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com"
+        },
+        "License Description": {
+          "en": "Yeongdeok-gun"
+        },
+        "License Info URL": {
+          "en": "https://www.yd.go.kr"
+        },
+        "Typographic Family": {
+          "ko": "영덕바다체",
+          "en": "Yeongdeok Sea"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "yeongdeok-snow-crab",
+      "family": "yeongdeok-snow-crab",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/yeongdeok/yeongdeok-snow-crab.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "https://itsfont.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright (c) 2023 by Yeongdeok-gun.  All rights reserved.",
+          "en": "Copyright (c) 2023 by Yeongdeok-gun.  All rights reserved."
+        },
+        "Font Family": {
+          "ko": "영덕대게체",
+          "en": "Yeongdeok Snow Crab"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "Yeongdeok Snow Crab"
+        },
+        "Full Font Name": {
+          "ko": "영덕대게체",
+          "en": "Yeongdeok Snow Crab"
+        },
+        "Version": {
+          "en": "Version 1.000"
+        },
+        "PostScript Name": {
+          "en": "Yeongdeok Snow Crab"
+        },
+        "Trademark": {
+          "en": "Yeongdeok Snow Crab is a trademark of Yeongdeok-gun."
+        },
+        "Manufacturer": {
+          "en": "TOGETHERGROUP"
+        },
+        "Designer": {
+          "ko": "TOGETHERGROUP",
+          "en": "TOGETHERGROUP"
+        },
+        "URL Vendor": {
+          "en": "https://itsfont.com"
+        },
+        "License Description": {
+          "en": "Yeongdeok-gun"
+        },
+        "License Info URL": {
+          "en": "https://www.yd.go.kr"
+        },
+        "Typographic Family": {
+          "ko": "영덕대게체",
+          "en": "Yeongdeok Snow Crab"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "yeongwol",
+      "family": "yeongwol",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.100",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        300
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/yeongwol/yeongwol.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
+      },
+      "homepage": "https://www.urbanbrand.co.kr/",
+      "metadata": {
+        "Copyright": {
+          "en": "Copyright © 2025 Yeongwol County. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "영월",
+          "en": "Yeongwol"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.100;UBRI;Yeongwol-Regular"
+        },
+        "Full Font Name": {
+          "ko": "영월",
+          "en": "Yeongwol"
+        },
+        "Version": {
+          "en": "Version 1.100; Build 20250916"
+        },
+        "PostScript Name": {
+          "en": "Yeongwol-Regular"
+        },
+        "Trademark": {
+          "ko": "영월체는 영월군의 상표입니다.",
+          "en": "Yeongwol is a trademark of Yeongwol County."
+        },
+        "Manufacturer": {
+          "ko": "도시브랜드연구소",
+          "en": "Urban Brand."
+        },
+        "Designer": {
+          "ko": "강병호, 김민, 김연아",
+          "en": "Byoung-ho Kang, Min Kim, Yona Kim"
+        },
+        "URL Vendor": {
+          "en": "https://www.urbanbrand.co.kr/"
+        },
+        "License Description": {
+          "ko": "영월군",
+          "en": "영월군"
+        },
+        "License Info URL": {
+          "en": "https://www.yw.go.kr/"
+        },
+        "Typographic Family": {
+          "ko": "영월",
+          "en": "Yeongwol"
+        },
+        "Typographic Subfamily": {
+          "ko": "Regular",
+          "en": "Regular"
+        }
+      }
+    },
+    {
+      "id": "yes24",
+      "family": "yes24",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.010",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/yes24/yes24.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yes24.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2019 YES24 Corp. All rights reserved.",
+          "en": "Copyright © 2019 YES24 Corp. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "예스체",
+          "en": "YES24"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.010;YDI ;YES24"
+        },
+        "Full Font Name": {
+          "ko": "예스체",
+          "en": "YES24"
+        },
+        "Version": {
+          "en": "Version 1.010;Build 20191105"
+        },
+        "PostScript Name": {
+          "en": "YES24"
+        },
+        "Trademark": {
+          "en": "YES24 is a trademark of YES24 Corp."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc"
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yes24.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yes24.com/event/00_corp/2019/0930Yesfont.aspx"
+        }
+      }
+    },
+    {
+      "id": "yes24gothicb",
+      "family": "yes24gothicb",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.020",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/yes24/yes24gothicb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yes24.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2019,2020 YES24 Corp. All rights reserved.",
+          "en": "Copyright © 2019,2020 YES24 Corp. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "예스 고딕 볼드",
+          "en": "YES Gothic Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.020;YDI ;YESGothic-Bold"
+        },
+        "Full Font Name": {
+          "ko": "예스 고딕 볼드",
+          "en": "YES Gothic Bold"
+        },
+        "Version": {
+          "en": "Version 1.020;20201125"
+        },
+        "PostScript Name": {
+          "en": "YESGothic-Bold"
+        },
+        "Trademark": {
+          "en": "YES Gothic Bold is a trademark of YES24 Corp."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc"
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yes24.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yes24.com/event/00_corp/2019/0930Yesfont.aspx"
+        },
+        "Typographic Family": {
+          "ko": "예스 고딕",
+          "en": "YES Gothic"
+        },
+        "Typographic Subfamily": {
+          "ko": "볼드",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "yes24gothiceb",
+      "family": "yes24gothiceb",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        800
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/yes24/yes24gothiceb.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 9,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 800,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yes24.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2020 YES24 Corp. All rights reserved.",
+          "en": "Copyright © 2020 YES24 Corp. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "예스 고딕 엑스트라볼드",
+          "en": "YES Gothic ExtraBold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;YESGothic-ExtraBold"
+        },
+        "Full Font Name": {
+          "ko": "예스 고딕 엑스트라볼드",
+          "en": "YES Gothic ExtraBold"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20201119"
+        },
+        "PostScript Name": {
+          "en": "YESGothic-ExtraBold"
+        },
+        "Trademark": {
+          "en": "YES Gothic ExtraBold is a trademark of YES24 Corp."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc"
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yes24.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yes24.com/event/00_corp/2019/0930Yesfont.aspx"
+        },
+        "Typographic Family": {
+          "ko": "예스 고딕",
+          "en": "YES Gothic"
+        },
+        "Typographic Subfamily": {
+          "ko": "엑스트라볼드",
+          "en": "ExtraBold"
+        }
+      }
+    },
+    {
+      "id": "yes24gothicm",
+      "family": "yes24gothicm",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.000",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/yes24/yes24gothicm.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 500,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yes24.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2020 YES24 Corp. All rights reserved.",
+          "en": "Copyright © 2020 YES24 Corp. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "예스 고딕 미디움",
+          "en": "YES Gothic Medium"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;YESGothic-Medium"
+        },
+        "Full Font Name": {
+          "ko": "예스 고딕 미디움",
+          "en": "YES Gothic Medium"
+        },
+        "Version": {
+          "en": "Version 1.000;Build 20201119"
+        },
+        "PostScript Name": {
+          "en": "YESGothic-Medium"
+        },
+        "Trademark": {
+          "en": "YES Gothic Medium is a trademark of YES24 Corp."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc"
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yes24.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yes24.com/event/00_corp/2019/0930Yesfont.aspx"
+        },
+        "Typographic Family": {
+          "ko": "예스 고딕",
+          "en": "YES Gothic"
+        },
+        "Typographic Subfamily": {
+          "ko": "미디움",
+          "en": "Medium"
+        }
+      }
+    },
+    {
+      "id": "yes24gothicr",
+      "family": "yes24gothicr",
+      "categories": [
+        "sans-serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.020",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/yes24/yes24gothicr.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yes24.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2019,2020 YES24 Corp. All rights reserved.",
+          "en": "Copyright © 2019,2020 YES24 Corp. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "예스 고딕 레귤러",
+          "en": "YES Gothic Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.020;YDI ;YESGothic-Regular"
+        },
+        "Full Font Name": {
+          "ko": "예스 고딕 레귤러",
+          "en": "YES Gothic Regular"
+        },
+        "Version": {
+          "en": "Version 1.020;20201125"
+        },
+        "PostScript Name": {
+          "en": "YESGothic-Regular"
+        },
+        "Trademark": {
+          "en": "YES Gothic Regular is a trademark of YES24 Corp."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc"
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yes24.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yes24.com/event/00_corp/2019/0930Yesfont.aspx"
+        },
+        "Typographic Family": {
+          "ko": "예스 고딕",
+          "en": "YES Gothic"
+        },
+        "Typographic Subfamily": {
+          "ko": "레귤러"
+        }
+      }
+    },
+    {
+      "id": "yes24myoungjob",
+      "family": "yes24myoungjob",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.010",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        700
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/yes24/yes24myoungjob.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 8,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yes24.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2019 YES24 Corp. All rights reserved.",
+          "en": "Copyright © 2019 YES24 Corp. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "예스 명조 볼드",
+          "en": "YES Myoungjo Bold"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;YESMyoungjo-Bold"
+        },
+        "Full Font Name": {
+          "ko": "예스 명조 볼드",
+          "en": "YES Myoungjo Bold"
+        },
+        "Version": {
+          "en": "Version 1.010;Build 20191105"
+        },
+        "PostScript Name": {
+          "en": "YESMyoungjo-Bold"
+        },
+        "Trademark": {
+          "en": "YES Myoungjo Bold is a trademark of YES24 Corp."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc"
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yes24.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yes24.com/event/00_corp/2019/0930Yesfont.aspx"
+        },
+        "Typographic Family": {
+          "ko": "예스 명조",
+          "en": "YES Myoungjo"
+        },
+        "Typographic Subfamily": {
+          "ko": "볼드",
+          "en": "Bold"
+        }
+      }
+    },
+    {
+      "id": "yes24myoungjor",
+      "family": "yes24myoungjor",
+      "categories": [
+        "serif"
+      ],
+      "languages": [
+        "ko",
+        "en"
+      ],
+      "version": "1.010",
+      "type": "self-hosted",
+      "license": "SIL OFL 1.1",
+      "weights": [
+        400
+      ],
+      "isVariable": false,
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts10@20261011/fonts/yes24/yes24myoungjor.css",
+      "os2": {
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
+      },
+      "homepage": "http://www.yes24.com",
+      "metadata": {
+        "Copyright": {
+          "ko": "Copyright © 2019 YES24 Corp. All rights reserved.",
+          "en": "Copyright © 2019 YES24 Corp. All rights reserved."
+        },
+        "Font Family": {
+          "ko": "예스 명조 레귤러",
+          "en": "YES Myoungjo Regular"
+        },
+        "Font Subfamily (Style)": {
+          "ko": "Regular",
+          "en": "Regular"
+        },
+        "Unique Font Identifier": {
+          "en": "1.000;YDI ;YESMyoungjo-Regular"
+        },
+        "Full Font Name": {
+          "ko": "예스 명조 레귤러",
+          "en": "YES Myoungjo Regular"
+        },
+        "Version": {
+          "en": "Version 1.010;Build 20191105"
+        },
+        "PostScript Name": {
+          "en": "YESMyoungjo-Regular"
+        },
+        "Trademark": {
+          "en": "YES Myoungjo Regular is a trademark of YES24 Corp."
+        },
+        "Manufacturer": {
+          "en": "YoonDesign Inc"
+        },
+        "Designer": {
+          "en": "YoonDesign Inc."
+        },
+        "URL Vendor": {
+          "en": "http://www.yes24.com"
+        },
+        "License Info URL": {
+          "en": "http://www.yes24.com/event/00_corp/2019/0930Yesfont.aspx"
+        },
+        "Typographic Family": {
+          "ko": "예스 명조",
+          "en": "YES Myoungjo"
+        },
+        "Typographic Subfamily": {
+          "ko": "레귤러"
         }
       }
     }

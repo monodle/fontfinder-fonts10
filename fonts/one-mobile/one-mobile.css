@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'one-mobile';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./one-mobile-otf-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'one-mobile';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./one-mobile-otf-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'one-mobile';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./one-mobile-otf-bold.woff2') format('woff2');
+}

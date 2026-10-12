@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'sb_aggro_b';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url('./sb_aggrootf_b.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'sb_aggro_l';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url('./sb_aggrootf_l.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'sb_aggro_m';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url('./sb_aggrootf_m.woff2') format('woff2');
+}
